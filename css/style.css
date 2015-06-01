@@ -1,0 +1,19 @@
+h3 {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+	line-height: 18px;
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
+	line-height: 18px;
+
+}
+
+.table>tbody>tr>td {
+	font-size: 12px;
+	padding: 4px;
+}
